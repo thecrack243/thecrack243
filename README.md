@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Ilunga 👋
 
-I'm a Full Stack Developer with a strong focus on **Machine Learning and AI**.  
+A Full Stack Developer with a strong focus on **Machine Learning and AI**.  
 I enjoy building intelligent systems, data-driven applications, and clean backend architectures.
 
 ---
