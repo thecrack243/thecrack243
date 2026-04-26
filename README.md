@@ -33,7 +33,6 @@ I enjoy building intelligent systems, data-driven applications, and clean backen
 ## 🧠 Recent Project
 ### Iris Classification App
 Machine learning app with data exploration, model insights, and predictions using a Random Forest model with an interactive Streamlit interface.
-
 👉 [View Project](https://github.com/thecrack243/iris-classification)
 👉 <a href="https://iris-classification-rf.streamlit.app" target="_blank" rel="noopener noreferrer">
 Live Demo
