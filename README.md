@@ -38,7 +38,9 @@ Machine learning app with data exploration, model insights, and prediction inter
 - Includes confusion matrix & performance metrics
 
 👉 [View Project](https://github.com/thecrack243/iris-classification)
-👉 [Live Demo](https://iris-classification-rf.streamlit.app)
+👉 <a href="https://iris-classification-rf.streamlit.app" target="_blank" rel="noopener noreferrer">
+Live Demo
+</a>
 
 ---
 
