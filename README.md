@@ -53,7 +53,3 @@ Machine learning app with data exploration, model insights, and prediction inter
 ## 📫 Contact
 - GitHub: https://github.com/thecrack243
 - Email: emilunga142@gmail.com
-
-  [![](https://komarev.com/ghpvc/?username=thecrack243&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
