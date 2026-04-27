@@ -11,10 +11,15 @@ I enjoy building intelligent systems, data-driven applications, and clean backen
 
 ### 🚀 Tech Stack:
 
-![Python](https://img.shields.io/badge/Python-%233A6B8C.svg?style=for-the-badge&logo=python&logoColor=ffe873)
-![C++](https://img.shields.io/badge/C++-%232D5C7F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%232B3A42.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%233B3B3B.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+<div>
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript" />
+</div>
 
 ### 🤖 ML / Data
 
