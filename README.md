@@ -52,11 +52,11 @@ Live Demo
 <p>
   <img 
     src="https://streak-stats.demolab.com?user=thecrack243&theme=github_dark&hide_border=true" 
-    height="175"
+    height="170"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=thecrack243&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
-    height="175"
+    height="170"
   />
 </p>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrack243&layout=compact&theme=github_dark&hide_border=true)-->
