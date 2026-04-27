@@ -5,6 +5,8 @@ I enjoy building intelligent systems, data-driven applications, and clean backen
 
 ---
 
+<img src="https://raw.githubusercontent.com/thecrack243/thecrack243/output/snake.svg" />
+
 ## 💻 Languages
 
 ### 🚀 Tech Stack:
