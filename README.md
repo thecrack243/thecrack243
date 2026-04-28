@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 # Hi, I'm Emmanuel Ilunga 👋
 
 A Full Stack Developer with a strong focus on **Machine Learning and AI**.  
@@ -48,7 +50,7 @@ Live Demo
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=thecrack243&theme=github_dark&hide_border=true" 
     height="170"
@@ -56,6 +58,12 @@ Live Demo
   <img 
     src="https://github-readme-stats.vercel.app/api?username=thecrack243&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
     height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrack243&theme=github_dark"
   />
 </p>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrack243&layout=compact&theme=github_dark&hide_border=true)-->
