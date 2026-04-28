@@ -4,7 +4,6 @@ A Full Stack Developer with a strong focus on **Machine Learning and AI**.
 I enjoy building intelligent systems, data-driven applications, and clean backend architectures.
 
 ---
-
 <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/output/snake.svg" />
 
 ## 💻 Languages
