@@ -66,9 +66,9 @@ Live Demo
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrack243&theme=github_dark"
   />
 </p>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrack243&layout=compact&theme=github_dark&hide_border=true)-->
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrack243&layout=compact&theme=github_dark&hide_border=true)
 
----
+----->
 
 ## 📫 Contact
 - GitHub: https://github.com/thecrack243
