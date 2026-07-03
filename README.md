@@ -68,8 +68,7 @@ A comprehensive deep learning system for real-time face detection, facial expres
     src="https://streak-stats.demolab.com?user=thecrack243&theme=github_dark&hide_border=true" 
     height="170"
   />
-  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
-    height="170"  />
+  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
 </p>
 
 <p align="center">
