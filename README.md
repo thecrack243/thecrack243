@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ilunga</h1>
 
 <h3 align="center">
-Full Stack Developer • Machine Learning • Artificial Intelligence
+Machine Learning Engineer • Full Stack Developer • Artificial Intelligence
 </h3>
 
 <p align="center">
