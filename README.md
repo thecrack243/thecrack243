@@ -35,6 +35,7 @@ I enjoy building intelligent systems, data-driven applications, and clean backen
 ![Django](https://img.shields.io/badge/Django-%232F4F3F.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-%232B3E50.svg?style=for-the-badge&logo=react&logoColor=aad8ff)
 ![Flask](https://img.shields.io/badge/Flask-%23212121.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -46,8 +47,20 @@ Machine learning app with data exploration, model insights, and predictions usin
 Live Demo
 </a>
 
+### AI Medical Diagnosis & Patient Management System
+A Python final project combining machine learning disease prediction with a patient management web application. Built with Streamlit, scikit-learn, PyTorch, and SQLite.
+👉 [View Project](https://github.com/thecrack243/ai-medical-diagnosis-patient-management.git)
+
+### Bank Management System
+A comprehensive C++ Object-Oriented Programming final project demonstrating core banking operations through both a console application and a modern Qt-based GUI.
+👉 [View Project](https://github.com/thecrack243/bank-management-system.git)
+
+### Intelligent Face Detection and Analysis System
+A comprehensive deep learning system for real-time face detection, facial expression recognition, and sentiment analysis — built with YOLOv8, CNN, and Streamlit.
+👉 [View Project](https://github.com/thecrack243/Intelligent-Face-Detection-and-Analysis-System.git)
+
 ---
-<!--!
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -66,9 +79,15 @@ Live Demo
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrack243&theme=github_dark"
   />
 </p>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecrack243&layout=compact&theme=github_dark&hide_border=true)
 
------>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+---
 
 ## 📫 Contact
 - GitHub: https://github.com/thecrack243
