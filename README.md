@@ -50,14 +50,6 @@ Building intelligent applications, computer vision systems, and modern web solut
 ---
 
 ## 🧠 Recent Project
-### 🌸 Iris Classification App
-An interactive machine learning application that transforms the classic Iris dataset into a hands-on experience. Explore the data through visualizations, understand how a Random Forest model makes predictions, and classify new samples in real time using Streamlit.
-
-👉 **[📂 View Repository](https://github.com/thecrack243/iris-classification)**  
-👉 **[🌐 Live Demo](https://iris-classification-rf.streamlit.app)**
-
----
-
 ### 🩺 AI Medical Diagnosis & Patient Management System
 An AI-powered healthcare platform that combines disease prediction with patient record management. It integrates multiple machine learning models into a user-friendly web application, showcasing the practical use of AI in healthcare.
 
@@ -76,6 +68,14 @@ A modern banking application developed with C++ and Object-Oriented Programming 
 A deep learning project for real-time face detection, facial expression recognition, and sentiment analysis using YOLOv8, CNNs, and an interactive Streamlit dashboard.
 
 👉 **[📂 View Repository](https://github.com/thecrack243/Intelligent-Face-Detection-and-Analysis-System)**
+
+---
+
+### 🌸 Iris Classification App
+An interactive machine learning application that transforms the classic Iris dataset into a hands-on experience. Explore the data through visualizations, understand how a Random Forest model makes predictions, and classify new samples in real time using Streamlit.
+
+👉 **[📂 View Repository](https://github.com/thecrack243/iris-classification)**  
+👉 **[🌐 Live Demo](https://iris-classification-rf.streamlit.app)**
 
 ---
 
