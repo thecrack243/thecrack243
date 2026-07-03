@@ -18,10 +18,9 @@ Building intelligent applications, computer vision systems, and modern web solut
 
 ---
 
-## 💻 Languages
+## 🛠️ Tech Stack
 
-### 🚀 Tech Stack:
-
+### 💻 Languages
 <div>
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c" />
   <img width="12" />
@@ -33,19 +32,27 @@ Building intelligent applications, computer vision systems, and modern web solut
 </div>
 
 ### 🤖 ML / Data
-
 ![NumPy](https://img.shields.io/badge/NumPy-%233D5A73.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%233F2A56.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23C97A2B.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23C45A1A.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23B33A2B.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 
 ### 🌐 Web / Backend
-
 ![Django](https://img.shields.io/badge/Django-%232F4F3F.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-%232B3E50.svg?style=for-the-badge&logo=react&logoColor=aad8ff)
 ![Flask](https://img.shields.io/badge/Flask-%23212121.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🖥️ Desktop / GUI & Mobile
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
