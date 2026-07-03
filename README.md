@@ -2,13 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=About%20Me&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# Hi, I'm Emmanuel Ilunga
+<h1 align="center">Hi 👋, I'm Emmanuel Ilunga</h1>
 
-A Full Stack Developer with a strong focus on **Machine Learning and AI**.  
-I enjoy building intelligent systems, data-driven applications, and clean backend architectures.
+<h3 align="center">
+Full Stack Developer • Machine Learning • Artificial Intelligence
+</h3>
+
+<p align="center">
+Building intelligent applications, computer vision systems, and modern web solutions.
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/thecrack243/thecrack243/output/snake.svg" />
+</p>
 
 ---
-<img src="https://raw.githubusercontent.com/thecrack243/thecrack243/output/snake.svg" />
 
 ## 💻 Languages
 
@@ -82,8 +90,8 @@ A deep learning project for real-time face detection, facial expression recognit
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrack243&theme=github_dark"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrack243&theme=tokyonight"
   />
 </p>
 
