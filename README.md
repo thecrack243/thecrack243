@@ -68,10 +68,8 @@ A comprehensive deep learning system for real-time face detection, facial expres
     src="https://streak-stats.demolab.com?user=thecrack243&theme=github_dark&hide_border=true" 
     height="170"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=thecrack243&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
-    height="170"
-  />
+  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
+    height="170"  />
 </p>
 
 <p align="center">
@@ -90,8 +88,9 @@ A comprehensive deep learning system for real-time face detection, facial expres
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/trophy-output/trophy.svg" height="150" alt="trophy graph" />
+</div>
 </div>
 
 ###
