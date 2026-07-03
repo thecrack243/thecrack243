@@ -40,24 +40,32 @@ I enjoy building intelligent systems, data-driven applications, and clean backen
 ---
 
 ## 🧠 Recent Project
-### Iris Classification App
-Machine learning app with data exploration, model insights, and predictions using a Random Forest model with an interactive Streamlit interface.
-👉 [View Project](https://github.com/thecrack243/iris-classification)
-👉 <a href="https://iris-classification-rf.streamlit.app" target="_blank" rel="noopener noreferrer">
-Live Demo
-</a>
+### 🌸 Iris Classification App
+An interactive machine learning application that transforms the classic Iris dataset into a hands-on experience. Explore the data through visualizations, understand how a Random Forest model makes predictions, and classify new samples in real time using Streamlit.
 
-### AI Medical Diagnosis & Patient Management System
-A Python final project combining machine learning disease prediction with a patient management web application. Built with Streamlit, scikit-learn, PyTorch, and SQLite.
-👉 [View Project](https://github.com/thecrack243/ai-medical-diagnosis-patient-management.git)
+👉 **[📂 View Repository](https://github.com/thecrack243/iris-classification)**  
+👉 **[🌐 Live Demo](https://iris-classification-rf.streamlit.app)**
 
-### Bank Management System
-A comprehensive C++ Object-Oriented Programming final project demonstrating core banking operations through both a console application and a modern Qt-based GUI.
-👉 [View Project](https://github.com/thecrack243/bank-management-system.git)
+---
 
-### Intelligent Face Detection and Analysis System
-A comprehensive deep learning system for real-time face detection, facial expression recognition, and sentiment analysis — built with YOLOv8, CNN, and Streamlit.
-👉 [View Project](https://github.com/thecrack243/Intelligent-Face-Detection-and-Analysis-System.git)
+### 🩺 AI Medical Diagnosis & Patient Management System
+An AI-powered healthcare platform that combines disease prediction with patient record management. It integrates multiple machine learning models into a user-friendly web application, showcasing the practical use of AI in healthcare.
+
+👉 **[📂 View Repository](https://github.com/thecrack243/ai-medical-diagnosis-patient-management)**
+
+---
+
+### 🏦 Bank Management System
+A modern banking application developed with C++ and Object-Oriented Programming principles. Features both a console application and a Qt desktop GUI for secure account management and banking operations.
+
+👉 **[📂 View Repository](https://github.com/thecrack243/bank-management-system)**
+
+---
+
+### 🎯 Intelligent Face Detection & Analysis System
+A deep learning project for real-time face detection, facial expression recognition, and sentiment analysis using YOLOv8, CNNs, and an interactive Streamlit dashboard.
+
+👉 **[📂 View Repository](https://github.com/thecrack243/Intelligent-Face-Detection-and-Analysis-System)**
 
 ---
 
@@ -68,7 +76,7 @@ A comprehensive deep learning system for real-time face detection, facial expres
     src="https://streak-stats.demolab.com?user=thecrack243&theme=github_dark&hide_border=true" 
     height="170"
   />
-  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </p>
 
 <p align="center">
@@ -81,7 +89,7 @@ A comprehensive deep learning system for real-time face detection, facial expres
 
 <div data-importer="stats" align="center">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/trophy-output/trophy.svg?theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 </div>
 
