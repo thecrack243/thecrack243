@@ -28,8 +28,8 @@ jobs:
           max-rows: 1
           margin-width: 8
           margin-height: 8
-          no-background: false
-          no-frame: false
+          no-background: true
+          no-frame: true
 
       - name: push trophy.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
