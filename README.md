@@ -12,6 +12,8 @@ Machine Learning Engineer • Full Stack Developer • Artificial Intelligence
 Building intelligent applications, computer vision systems, and modern web solutions.
 </p>
 
+<br><p align="right"><i>"Don't forget to compile your life after every update."</i></p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/output/snake.svg" />
 </p>
