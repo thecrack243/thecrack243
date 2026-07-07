@@ -91,10 +91,10 @@ An interactive machine learning application that transforms the classic Iris dat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=thecrack243&theme=github_dark&hide_border=true" 
-    height="170"
-  />
+<img
+  src="https://streak-stats.demolab.com?user=thecrack243&theme=github_dark&hide_border=true&v=2"
+  height="170"
+/>
   <img src="https://raw.githubusercontent.com/thecrack243/thecrack243/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </p>
 
